@@ -56,10 +56,9 @@ function checkLength(input, min, max){
 
 // Check passwords match
 function checkPasswordsMatch(input1, input2){
-  if (input1.value !== input2.value2) {
+  if (input1.value !== input2.value) {
     showError(input2, 'Passwords do not match' )
     showError(input1, 'Passwords do not match' )
-
   }
 }
 // Get fieldname
@@ -73,8 +72,9 @@ form.addEventListener('submit', function(event){
   event.preventDefault();
 
   checkRequired([username, email, password, password2]);
+  checkPasswordsMatch(password, password2);
   checkLength(username, 3, 15);
   checkLength(password, 6, 20);
+  checkLength(password2, 6, 20);
   checkEmail(email);
-  checkPasswordsMatch(password, password2);
 })
