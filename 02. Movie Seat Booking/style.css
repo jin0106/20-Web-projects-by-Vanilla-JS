@@ -131,3 +131,15 @@ body {
 .text span {
   color: red;
 }
+
+.reset {
+  margin-top: 2rem;
+  -webkit-appearance: none;
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  padding: .5rem 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
