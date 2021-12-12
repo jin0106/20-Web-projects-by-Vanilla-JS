@@ -10,11 +10,15 @@ LocalStorage에 데이터를 저장해서 새로고침을 해도 선택한 좌�
 
 #### 1) 기본 화면
 
-<img src="readme.assets/image-20211212205954205.png" alt="image-20211212205954205" style="zoom:33%;" />
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/02.%20Movie%20Seat%20Booking/readme.assets/image-20211212205954205.png"  width="300" height="400"/>
+
+
+
+
 
 #### 2) 좌석 선택시
 
-<img src="readme.assets/image-20211212210016170.png" alt="image-20211212210016170" style="zoom:33%;" />
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/02.%20Movie%20Seat%20Booking/readme.assets/image-20211212210016170.png"  width="300" height="400"/>
 
 #### 
 

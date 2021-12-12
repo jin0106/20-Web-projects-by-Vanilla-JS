@@ -10,15 +10,15 @@ username, email, password의 최소, 최대 길이를 지정하고 email의 경�
 
 #### 1) 기본 화면
 
-<img src="readme.assets/image-20211212160119588.png" alt="image-20211212160119588" style="zoom:50%;" />
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/01.%20Form%20Validator/readme.assets/image-20211212160119588.png"  width="300" height="400"/>
 
 #### 2) 이메일 형식 오류
 
-<img src="readme.assets/image-20211212160556269.png" alt="image-20211212160556269" style="zoom:50%;" />
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/01.%20Form%20Validator/readme.assets/image-20211212160556269.png"  width="300" height="400"/>
 
 #### 3) 아무것도 입력 안했을 때
 
-<img src="readme.assets/image-20211212160614044.png" alt="image-20211212160614044" style="zoom:50%;" />
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/01.%20Form%20Validator/readme.assets/image-20211212160614044.png"  width="300" height="400"/>
 
 ## 2. 프로젝트를 통해 배운것
 
