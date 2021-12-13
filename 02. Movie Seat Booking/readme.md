@@ -20,7 +20,7 @@ LocalStorage에 데이터를 저장해서 새로고침을 해도 선택한 좌�
 
 <img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/02.%20Movie%20Seat%20Booking/readme.assets/image-20211212210016170.png"  width="300" height="400"/>
 
-#### 
+
 
 ## 2. 프로젝트를 통해 배운것
 

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Questrial', sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #666;
+}
+
+h1 {
+  color: #fff;
+}
+
+.screen {
+  cursor: pointer;
+  width: 70%;
+  background-color: #000;
+  border-radius: 10px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.controls {
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 70%;
+}
+
+.controls .btn {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.controls .fa-play {
+  color: #38a745;
+}
+
+.controls .fa-stop {
+  color: #dc3545;
+}
+
+.controls .fa-pause {
+  color: #fff;
+}
+
+.controls .timestamp {
+  color: #fff;
+  font-weight: 800;
+  margin-left: 10px;
+}
+
+@media(max-width:800px) {
+
+  .screen,
+  .controls {
+    width: 90%;
+  }
+}
