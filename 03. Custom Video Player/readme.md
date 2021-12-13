@@ -12,13 +12,13 @@ LocalStorage에 데이터를 저장해서 새로고침을 해도 선택한 좌�
 
 #### 1) 기본 화면
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/03.%20Custom%20Video%20Player/readme.assets/image-20211213133349365.png"  width="300" height="400"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/03.%20Custom%20Video%20Player/readme.assets/image-20211213133349365.png"  width="500" height="400"/>
 
 
 
 #### 2) 영상 재생시
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/03.%20Custom%20Video%20Player/readme.assets/Screen Shot 2021-12-13 at 1.29.29 PM.png"  width="300" height="400"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/03.%20Custom%20Video%20Player/readme.assets/Screen Shot 2021-12-13 at 1.29.29 PM.png"  width="500" height="400"/>
 
 
 
@@ -86,6 +86,24 @@ function updateProgress(){
 
 
 ## 3. 추가 작업
+
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/03.%20Custom%20Video%20Player/readme.assets/image-20211213141049779.png"  width="500" height="400"/>
+
+Fast foward와 rewind 버튼을 만들어 각각의 버튼을 누르면 현재 영상 시간에서 +5, -5초씩을 하게 해주었다. 만약 현재 시청시간이 5초 미만이면 0으로 가게 설정을 하였다.
+
+```javascript
+function forwardVideo(){
+  video.currentTime += 5
+}
+
+function backwardVideo(){
+  if (video.currentTime < 5){
+    video.currentTime = 0;
+  } else{
+    video.currentTime -=5;
+  }
+}
+```
 
 
 

@@ -3,7 +3,8 @@ const play = document.querySelector('#play');
 const stop = document.querySelector('#stop');
 const progress = document.querySelector('#progress');
 const timestamp = document.querySelector('#timestamp');
-
+const backward = document.querySelector('#backward')
+const forward = document.querySelector('#forward')
 
 // Play & Pause Video
 function toggleVideoStatus(){
@@ -53,7 +54,17 @@ function stopVideo(){
   video.pause();
 }
 
+function forwardVideo(){
+  video.currentTime += 5
+}
 
+function backwardVideo(){
+  if (video.currentTime < 5){
+    video.currentTime = 0;
+  } else{
+    video.currentTime -=5;
+  }
+}
 // Event Listners
 
 video.addEventListener('click',toggleVideoStatus);
@@ -63,3 +74,5 @@ video.addEventListener('timeupdate',updateProgress);
 play.addEventListener('click', toggleVideoStatus);
 stop.addEventListener('click', stopVideo);
 progress.addEventListener('change', setVideoProgress);
+backward.addEventListener('click', backwardVideo);
+forward.addEventListener('click', forwardVideo);

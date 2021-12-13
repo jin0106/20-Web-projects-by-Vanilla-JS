@@ -26,7 +26,7 @@ https://www.udemy.com/course/web-projects-with-vanilla-javascript 강의를 통�
 
 
 
-#### 03. [Custom Video Player](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/02.%20Custom%20Video%20Player)
+#### 03. [Custom Video Player](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/03.%20Custom%20Video%20Player)
 
 비디오 플레이어 컨트롤들을 직접 커스텀
 
