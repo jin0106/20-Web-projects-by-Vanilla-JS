@@ -22,7 +22,7 @@ https://www.udemy.com/course/web-projects-with-vanilla-javascript 강의를 통�
 
 #### 02. [Movie Seat Booking](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/02.%20Movie%20Seat%20Booking)
 
-영화관 좌석 선택 시스템을 구현.
+영화관 좌석 선택 시스템을 구현
 
 
 
@@ -31,4 +31,8 @@ https://www.udemy.com/course/web-projects-with-vanilla-javascript 강의를 통�
 비디오 플레이어 컨트롤들을 직접 커스텀
 
 
+
+#### 04. [Exchange Rate Calculator](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/03.%20Exchange%20Rate%20Calculator)
+
+API 요청을 통해 환율 자동 계산 시스템 구현
 
