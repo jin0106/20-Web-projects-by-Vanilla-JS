@@ -44,3 +44,11 @@ async, await, fetch를 활용한 API요청을 통해 랜덤으로 유저를 생�
 
 <img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131357325.png" style : width=300 height=400>
 
+
+
+#### 06. [My Landing Page](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/06.%20My%20Landing%20Page)
+
+window 이벤트 함수를 사용하여 모달창을 없애는 기능 및 간단한 classList 사용으로 navbar 표시 및 숨기기
+
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/06.%20My%20Landing%20Page/readme.assets/image-20211215190319356.png"/>
+

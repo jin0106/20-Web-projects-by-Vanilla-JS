@@ -12,31 +12,31 @@ API를 통해 자동으로 user정보를 받아오고 랜덤으로 Wealth 값을
 
 #### 1) 기본 화면
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131357325.png)"  width="600" height="500"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131357325.png"  width="600" height="500"/>
 
 
 
 #### 2) 유저 추가
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131436825.png)"  width="600" height="500"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131436825.png"  width="600" height="500"/>
 
 
 
 #### 3) 백만장자만 표시
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131601729.png)"  width="600" height="500"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131601729.png"  width="600" height="500"/>
 
 
 
 #### 4) 금액순 정렬
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131624038.png)"  width="600" height="500"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131624038.png"  width="600" height="500"/>
 
 
 
 #### 5) 총 합 계산
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131656026.png)"  width="600" height="500"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131656026.png"  width="600" height="500"/>
 
 
 
@@ -128,7 +128,7 @@ fetchAuthorName(1).then((name) => console.log("name:", name));
 
 
 
-<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/04.%20Exchange%20Rate%20Calculator/readme.assets/image-20211215131932917.png)"  width="600" height="500"/>
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/05.%20DOM%20Array%20Methods/readme.assets/image-20211215131932917.png"  width="600" height="500"/>
 
 
 

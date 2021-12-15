@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.1/css/all.min.css">
+  <title>My Landing Page</title>
+</head>
+<body>
+  <nav>
+    <div class="logo">
+      <img src="https://randomuser.me/api/portraits/men/71.jpg" alt="user">
+    </div>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Portfolio</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact Me</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>My Landing Page</h1>
+    <button id="toggle" class="toggle">
+      <i class="fa fa-bars fa-2x"></i>
+    </button>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+    <button class="cta-btn" id="open">Sign Up</button>
+  </header>
+
+  <div class="container">
+    <h2>What is this landing page about?</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At vero possimus natus obcaecati dicta nobis, nihil facere, error laudantium deserunt, numquam aut perspiciatis odit accusamus eligendi quo ab vel voluptas!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab corrupti magnam, et nesciunt similique possimus maiores sequi iure tempore at.</p>
+    
+    <h2>Tell Me More</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas error quaerat ut aperiam velit corrupti rem unde minima doloribus deserunt!
+
+    </p>
+
+    <h2>Benefits</h2>
+    <ul>
+      <li>Lifetime Access</li>
+      <li>30 Day Money Back</li>
+      <li>Tailored Customer Support</li>
+    </ul>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et perferendis nostrum voluptates, architecto reiciendis dolorem sequi veritatis neque accusamus, corporis assumenda aspernatur libero labore cum ipsa eveniet sed quibusdam consequatur nisi animi culpa recusandae? Maiores porro itaque dolorem repellat a esse id officia minima facilis, rem sint voluptatem suscipit, at alias aspernatur adipisci, dicta aliquid fuga quae assumenda praesentium veritatis fugiat. Beatae nam corrupti, voluptatum qui nobis porro sint vero?</p>
+  </div>
+
+  <div class="modal-container" id="modal">
+    <div class="modal">
+      <button class="close-btn" id='close'>
+        <i class="fa fa-times"></i>
+      </button>
+      <div class="modal-header">
+        <h3>Sign Up</h3>
+      </div>
+      <div class="modal-content">
+        <p>Reister with us to get offers, support and more</p>
+        <form action="#" class='modal-form'>
+          <div>
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Enter Name">
+          </div>
+          <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Enter Email">
+          </div>
+          <div>
+            <label for="password">Name</label>
+            <input type="password" id="password" placeholder="Enter Password">
+          </div>
+          <div>
+            <label for="confirm-password">Confirm Password</label>
+            <input type="password" id="confirm-password" placeholder="Enter Password">
+          </div>
+          <input type="submit" value='Submit' class="submit-btn">
+        </form>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
