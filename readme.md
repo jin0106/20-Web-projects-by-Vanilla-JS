@@ -52,3 +52,14 @@ window 이벤트 함수를 사용하여 모달창을 없애는 기능 및 간단
 
 <img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/06.%20My%20Landing%20Page/readme.assets/image-20211215190319356.png"/>
 
+#### 07. [Hangman Game](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/07.%20Hangman%20Game)
+
+키보드 이벤트를 사용하여 단어 맞추기 게임을 구현
+
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/07.%20Hangman%20Game/readme.assets/image-20211216134340391.png"/>
+
+#### 08. [Meal Finder](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/08.%20Meal%20Finder)
+
+`fetch()` 를 이용하여 외부 API를 통해 음식 종류 및 레시피 검색
+
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/08.%20Meal%20Finder/readme.assets/image-20211217155829308.png"/>
