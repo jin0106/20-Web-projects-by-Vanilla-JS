@@ -63,3 +63,16 @@ window 이벤트 함수를 사용하여 모달창을 없애는 기능 및 간단
 `fetch()` 를 이용하여 외부 API를 통해 음식 종류 및 레시피 검색
 
 <img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/08.%20Meal%20Finder/readme.assets/image-20211217155829308.png"/>
+
+#### 09. [Expense Tracker](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/09.%20Expense%20Tracker)
+
+Array Methods와 Local Storage를 사용하여 expense tracker 구현
+
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/09.%20Expense%20Tracker/readme.assets/image-20211219121316392.png"/>
+
+
+
+#### 10. [Music Player](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/10.%20Music%20Player)
+
+Array Methods와 Local Storage를 사용하여 expense tracker 구현
+
