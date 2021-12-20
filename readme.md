@@ -74,5 +74,14 @@ Array Methods와 Local Storage를 사용하여 expense tracker 구현
 
 #### 10. [Music Player](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/10.%20Music%20Player)
 
-Array Methods와 Local Storage를 사용하여 expense tracker 구현
+HTML audio를 이용하여 뮤직 플레이어 구현
 
+<img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/10.%20Music%20Player/readme.assets/image-20211219212109801.png"/>
+
+
+
+#### 11. [Infinite Scroll Posts](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/11.%20Infinite%20Scroll%20Posts)
+
+window 이벤트와 fetch로 자료 요청을 통해 무한 스크롤 구현
+
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/11.%20Infinite%20Scroll%20Posts/readme.assets/image-20211220221456272.png"/>
