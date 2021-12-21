@@ -85,3 +85,11 @@ HTML audio를 이용하여 뮤직 플레이어 구현
 window 이벤트와 fetch로 자료 요청을 통해 무한 스크롤 구현
 
 <img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/11.%20Infinite%20Scroll%20Posts/readme.assets/image-20211220221456272.png"/>
+
+
+
+#### 12. [Typing Game](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/11.%20Infinite%20Scroll%20Posts)
+
+화면에 제시되는 단어들을 빠른 시간내에 많이 입력하는 게임
+
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/12.%20Typing%20Game/readme.assets/image-20211221135322474.png"/>
