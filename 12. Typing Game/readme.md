@@ -28,7 +28,7 @@
 
 `delay`  마다 함수 혹은 작성한 코드를 반복적으로 실행한다. delay와 ar1... argN은 옵션이다.
 
-* `delay` : 실행전 대기 시간으로 기본값은 0이고 단위는 millsecond
+* `delay` : 실행전 대기 시간으로 기본값은 0이고 단위는 millisecond
   * FYI) 1000ms = 1s
 
 * arg,... argN 함수에 전달할 인수들
@@ -37,7 +37,7 @@
 
 #### 2) `clearInterval()`
 
-`setInterval` 의 함수를 중단시킬 대 사용한다.
+`setInterval` 의 함수를 중단시킬 때 사용한다.
 
 ##### Syntax
 

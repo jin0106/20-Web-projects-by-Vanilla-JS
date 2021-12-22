@@ -93,3 +93,11 @@ window 이벤트와 fetch로 자료 요청을 통해 무한 스크롤 구현
 화면에 제시되는 단어들을 빠른 시간내에 많이 입력하는 게임
 
 <img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/12.%20Typing%20Game/readme.assets/image-20211221135322474.png"/>
+
+
+
+#### 13. [Speech Text Reader](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/13.%20Speech%20Text%20Reader)
+
+Web Speech API를 활용하여 텍스트를 읽어주는 앱
+
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/13.%20Speech%20Text%20Reader/readme.assets/Screen Shot 2021-12-22 at 1.58.47 PM.png"/>
