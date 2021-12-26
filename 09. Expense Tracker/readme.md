@@ -17,3 +17,4 @@ Array Methods와 Local Storage를 사용하여 expense tracker 구현
 #### 2) 금액 추가 시 
 
 <img align='center' src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/09.%20Expense%20Tracker/readme.assets/image-20211219121529654.png"/>
+

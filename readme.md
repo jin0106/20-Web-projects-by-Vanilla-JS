@@ -101,3 +101,11 @@ window 이벤트와 fetch로 자료 요청을 통해 무한 스크롤 구현
 Web Speech API를 활용하여 텍스트를 읽어주는 앱
 
 <img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/13.%20Speech%20Text%20Reader/readme.assets/Screen Shot 2021-12-22 at 1.58.47 PM.png"/>
+
+
+
+#### 14. [Memory Card](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/14.%20Memory%20Card)
+
+메모리 카드를 추가 및 삭제 하는 앱
+
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/14.%20Memory%20Cards/readme.assets/image-20211226212302874.png"/>
