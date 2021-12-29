@@ -109,3 +109,11 @@ Web Speech API를 활용하여 텍스트를 읽어주는 앱
 메모리 카드를 추가 및 삭제 하는 앱
 
 <img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/14.%20Memory%20Cards/readme.assets/image-20211226212302874.png"/>
+
+
+
+15. [Lyrics Search App](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/15.%20Lyrics%20Search%20App)
+
+    lyrics.ovh API를 이용해 가수 혹은 노래 제목을 입력하여 노래 가사 검색 앱 구현
+
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/15.%20Lyrics%20Search%20App/readme.assets/image-20211229155822301.png"/>
