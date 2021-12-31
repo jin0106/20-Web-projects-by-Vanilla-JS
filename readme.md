@@ -112,8 +112,14 @@ Web Speech API를 활용하여 텍스트를 읽어주는 앱
 
 
 
-15. [Lyrics Search App](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/15.%20Lyrics%20Search%20App)
+#### 15. [Lyrics Search App](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/15.%20Lyrics%20Search%20App)
 
-    lyrics.ovh API를 이용해 가수 혹은 노래 제목을 입력하여 노래 가사 검색 앱 구현
+lyrics.ovh API를 이용해 가수 혹은 노래 제목을 입력하여 노래 가사 검색 앱 구현
 
 <img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/15.%20Lyrics%20Search%20App/readme.assets/image-20211229155822301.png"/>
+
+#### 16. [Relaxer App](https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/tree/master/16.%20Relaxer%20App)
+
+CSS&JavaScript를 사용해 언제 숨 쉬고, 참고, 뱉는 relaxing 앱 생성
+
+<img src="https://github.com/jin0106/20-Web-projects-by-Vanilla-JS/raw/master/16.%20Relaxer%20App/readme.assets/pjt.gif"/>
